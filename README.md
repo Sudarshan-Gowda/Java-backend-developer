@@ -1,6 +1,8 @@
 # Java backend developer
 Collection of Concepts for Java Backend Developer
 
+# Note: Work in Progress ......
+
 To become Backend Java Developer you should be aware of all the core concepts along with latest framework technologies; This repo will guide you on learning as well as preparing for interviews;
 
 ## Repos Included are as follows:
